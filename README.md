@@ -1,18 +1,6 @@
-# Casper
+# Snails
+A theme for [Ghost](http://github.com/tryghost/ghost/). This is the latest development version of Snails. It's a simplified version of Casper (the default ghost theme).
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/). This is the latest development version of Casper. If you're just looking to download the latest release, head over to the [releases](https://github.com/TryGhost/Casper/releases) page.
-
-&nbsp;
-
-![screenshot-desktop](https://user-images.githubusercontent.com/120485/27221326-1e31d326-5280-11e7-866d-82d550a7683b.jpg)
-
-&nbsp;
-
-# First time using a Ghost theme?
-
-Ghost uses a simple templating language called [Handlebars](http://handlebarsjs.com/) for its themes.
-
-We've documented our default theme pretty heavily so that it should be fairly easy to work out what's going on just by reading the code and the comments. Once you feel comfortable with how everything works, we also have full [theme API documentation](https://themes.ghost.org) which explains every possible Handlebars helper and template.
 
 **The main files are:**
 
@@ -61,6 +49,4 @@ Casper uses inline SVG icons, included via Handlebars partials. You can find all
 You can add your own SVG icons in the same manner.
 
 
-# Copyright & License
 
-Copyright (c) 2013-2019 Ghost Foundation - Released under the [MIT license](LICENSE).
